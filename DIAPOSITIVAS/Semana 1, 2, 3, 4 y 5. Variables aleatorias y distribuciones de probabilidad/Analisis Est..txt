@@ -1,0 +1,11 @@
+Jorge Chue Gallardo 
+jchue@lamolina.edu.pe
+
+desarollarlo en una hoja tomarle foto y
+subir al moddle 
+
+EJERCICIOS
+http://www.chihuahua.tecnm.mx/academic/industrial/sabaticorita/_private/04Distribuciones%20de%20Probabilidad.htm
+
+CODIGOS EN R STUDIO
+http://rstudio-pubs-static.s3.amazonaws.com/423299_0f8a3c6331b9453dbf0f3b04756386a6.html
